@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Atilio Cedeño
 
-<!--
-**atiliocedeno/atiliocedeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineering & AI-assisted Development · QA Engineer
 
-Here are some ideas to get you started:
+I build web projects while developing my skills in AI engineering. My background in QA shapes how I approach software: clear requirements, testable behavior, and attention to edge cases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current focus is combining AI-assisted development with practical software engineering, bringing ideas into working applications and making quality part of the development process.
+
+## Selected work
+
+| Project | Focus | Explore |
+| --- | --- | --- |
+| **HealthCore** | Contributions to domain models, validations, collection utilities, search algorithms, and dashboards in a collaborative AI Engineering project. | [My contribution](https://github.com/4GeeksAcademy/atiliocedeno-ai-engineering-company-project-monorepo-aie4/pull/3) |
+| **KORU SPORT** | Sportswear e-commerce project in development, using Next.js, TypeScript, Supabase, and Drizzle. | [Repository](https://github.com/atiliocedeno/Koru) |
+| **QA Automation** | Web test automation practice with Java, Selenium, TestNG, and Gradle. | [Repository](https://github.com/atiliocedeno/demostracionCursoQaNova) |
+
+## Technical toolkit
+
+- **Web development:** TypeScript, JavaScript, React, Next.js, HTML, CSS.
+- **Data and application tooling:** PostgreSQL, Supabase, Drizzle ORM, Git and GitHub.
+- **Quality engineering:** Java, Selenium WebDriver, TestNG, Gradle, and API testing.
+- **Current direction:** AI engineering, AI-assisted development, and maintainable applications.
+
+## How I approach projects
+
+- Translate requirements into understandable implementation steps.
+- Keep UI, business logic, and data responsibilities clear.
+- Bring a QA perspective to validation, error handling, and edge cases.
+- Document setup, scope, and next steps so others can explore the work.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/atilio-cedeno/) · [GitHub projects](https://github.com/atiliocedeno?tab=repositories)
