@@ -10,12 +10,14 @@ My current focus is combining AI-assisted development with practical software en
 
 | Project | Focus | Explore |
 | --- | --- | --- |
+| **Lumen · AI Workspace** | Conversational app with a server-side Groq integration, token usage reporting, Next.js, and TypeScript. | [Live demo](https://groq-atiliocedeno-aipe4.vercel.app) · [Code](https://github.com/4GeeksAcademy/groq-atiliocedeno-aipe4) |
 | **HealthCore** | Contributions to domain models, validations, collection utilities, search algorithms, and dashboards in a collaborative AI Engineering project. | [My contribution](https://github.com/4GeeksAcademy/atiliocedeno-ai-engineering-company-project-monorepo-aie4/pull/3) |
 | **KORU SPORT** | Sportswear e-commerce project in development, using Next.js, TypeScript, Supabase, and Drizzle. | [Repository](https://github.com/atiliocedeno/Koru) |
 | **QA Automation** | Web test automation practice with Java, Selenium, TestNG, and Gradle. | [Repository](https://github.com/atiliocedeno/demostracionCursoQaNova) |
 
 ## Technical toolkit
 
+- **AI integration:** Groq API, server-side chat completions, and token usage reporting.
 - **Web development:** TypeScript, JavaScript, React, Next.js, HTML, CSS.
 - **Data and application tooling:** PostgreSQL, Supabase, Drizzle ORM, Git and GitHub.
 - **Quality engineering:** Java, Selenium WebDriver, TestNG, Gradle, and API testing.
